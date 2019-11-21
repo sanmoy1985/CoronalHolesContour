@@ -15,6 +15,8 @@ Run DemoFCM.m in order to execute coronal holes detection using only Fast Fuzzy 
 
 Download SDO/AIA 193 A jpeg images in 1024 resolution.
 
-Download CoronalHolesContourDetection folder
+Download CoronalHolesContourDetection folder.
 
-Go To -> Open for_testing folder -> Run CoronalHolesContourDetection
+Go To -> Open for_testing folder -> Run CoronalHolesContourDetection.
+
+For more help go through readme.txt.
