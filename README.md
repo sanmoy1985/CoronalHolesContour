@@ -7,3 +7,5 @@ Run DemoPORACM.m in order to execute coronal holes detection using only Paramete
 
 Run DemoFCM.m in order to execute coronal holes detection using only Fast Fuzzy C-Means Clustering followed by Hough Transformed Simulated Static Contour Method (FFCM-SCM).
 
+test
+
